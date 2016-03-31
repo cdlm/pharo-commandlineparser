@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCommandline",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCommandline",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
