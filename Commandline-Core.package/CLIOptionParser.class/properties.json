@@ -1,0 +1,18 @@
+{
+	"category" : "Commandline-Core-Commandline-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"short",
+		"long",
+		"parameter",
+		"description",
+		"action" ],
+	"name" : "CLIOptionParser",
+	"pools" : [
+		 ],
+	"super" : "CLIParser",
+	"type" : "normal" }

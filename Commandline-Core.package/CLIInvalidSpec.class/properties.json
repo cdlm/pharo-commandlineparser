@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Core-Commandline-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CLIInvalidSpec",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

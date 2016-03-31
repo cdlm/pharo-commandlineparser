@@ -1,0 +1,22 @@
+{
+	"category" : "Commandline-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"any",
+		"anyOf",
+		"command",
+		"optionBoth",
+		"optionLong",
+		"optionShort",
+		"subcommand",
+		"anyPlus",
+		"anyStar" ],
+	"name" : "CLIParsingTest",
+	"pools" : [
+		 ],
+	"super" : "PPAbstractParserTest",
+	"type" : "normal" }

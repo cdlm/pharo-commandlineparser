@@ -1,0 +1,15 @@
+{
+	"category" : "Commandline-Core-Commandline-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"specification",
+		"parameter" ],
+	"name" : "CLIOption",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

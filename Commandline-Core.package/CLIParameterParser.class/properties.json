@@ -1,0 +1,16 @@
+{
+	"category" : "Commandline-Core-Commandline-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 8/9/2011 17:37",
+	"instvars" : [
+		"name",
+		"isOptional",
+		"isMultiple" ],
+	"name" : "CLIParameterParser",
+	"pools" : [
+		 ],
+	"super" : "CLIParser",
+	"type" : "normal" }

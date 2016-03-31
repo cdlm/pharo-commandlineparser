@@ -1,0 +1,18 @@
+{
+	"category" : "Commandline-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"h",
+		"m",
+		"s",
+		"command",
+		"environment" ],
+	"name" : "CLICommandTest",
+	"pools" : [
+		 ],
+	"super" : "PPAbstractParserTest",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "Commandline-Core-Commandline-Core",
+	"classinstvars" : [
+		"subCommands" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"aliases",
+		"options",
+		"parameters",
+		"summary",
+		"description",
+		"subcommands",
+		"action" ],
+	"name" : "CLICommandParser",
+	"pools" : [
+		 ],
+	"super" : "CLIAbstractCommandParser",
+	"type" : "normal" }

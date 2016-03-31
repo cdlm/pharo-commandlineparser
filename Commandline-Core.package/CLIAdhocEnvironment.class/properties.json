@@ -1,0 +1,16 @@
+{
+	"category" : "Commandline-Core-Commandline-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"in",
+		"out",
+		"err" ],
+	"name" : "CLIAdhocEnvironment",
+	"pools" : [
+		 ],
+	"super" : "CLIEnvironment",
+	"type" : "normal" }
