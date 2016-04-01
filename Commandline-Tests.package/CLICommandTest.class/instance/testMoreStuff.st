@@ -9,8 +9,8 @@ testMoreStuff
 	self assert: (cmd hasOptionNamed: #more).
 	self assert: 'foo' equals: (cmd atOptionNamed: #stuff).
 
-	self assert: command fail:  #('dostuff' '-m' '-stuff' 'foo').
-	self assert: command fail:  #('dostuff' '-m' '--s' 'foo').
+	self assert: command fail: #('dostuff' '-m' '-stuff' 'foo').
+	self assert: command fail: #('dostuff' '-m' '--s' 'foo').
 	self assert: command fail: #('dostuff' '-more' '-s' 'foo').
 	self assert: command fail: #('dostuff' '--m' '--stuff' 'foo').
 
