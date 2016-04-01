@@ -1,3 +1,3 @@
 accessing
 out
-	^ OSProcess thisOSProcess stdOut "FileStream stdout"
+	^ Stdio stdout
