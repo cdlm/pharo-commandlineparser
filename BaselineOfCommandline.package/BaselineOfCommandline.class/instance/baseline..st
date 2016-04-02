@@ -7,6 +7,6 @@ baseline: spec
 			package: 'Commandline-Tests' with: [ spec requires: #('Commandline-Core') ];
 			project: 'PetitParser' with: [
 				spec
-					className: 'ConfigurationOfetitParser';
-					version: 'stable';
-					smalltalkhubUser: 'Moose' project: 'PetitParser' ] ]
+					className: 'ConfigurationOfPetitParser';
+					version: #stable;
+					repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main' ] ]
