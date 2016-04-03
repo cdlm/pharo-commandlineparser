@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"exitStatus" ],
+	"name" : "CLIExit",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/3/2016 12:45",
+	"instvars" : [
+		 ],
+	"name" : "CLIInvalidSpec",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

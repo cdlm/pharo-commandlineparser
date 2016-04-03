@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parser" ],
+	"name" : "CLIParser",
+	"pools" : [
+		 ],
+	"super" : "PPParser",
+	"type" : "normal" }

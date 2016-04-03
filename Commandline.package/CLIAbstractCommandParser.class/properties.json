@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienPollet 8/9/2011 17:34",
+	"instvars" : [
+		 ],
+	"name" : "CLIAbstractCommandParser",
+	"pools" : [
+		 ],
+	"super" : "CLIParser",
+	"type" : "normal" }
