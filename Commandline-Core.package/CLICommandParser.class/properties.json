@@ -4,7 +4,7 @@
 		"subCommands" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 4/3/2016 12:05",
 	"instvars" : [
 		"name",
 		"aliases",
