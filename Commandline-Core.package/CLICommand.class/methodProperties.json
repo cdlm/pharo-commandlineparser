@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"from:options:parameters:subcommand:" : " 4/3/2016 11:09:49" },
+	"instance" : {
+		"<<" : " 4/3/2016 11:09:49",
+		"atOption:" : " 4/3/2016 11:09:49",
+		"atOption:ifNone:" : " 4/3/2016 11:09:49",
+		"atOptionNamed:" : " 4/3/2016 11:09:49",
+		"atOptionNamed:ifNone:" : " 4/3/2016 11:09:49",
+		"cr" : " 4/3/2016 11:09:49",
+		"environment:" : " 4/3/2016 11:09:49",
+		"err" : " 4/3/2016 11:09:49",
+		"exitStatus:" : " 4/3/2016 11:09:49",
+		"exitSuccess" : " 4/3/2016 11:09:49",
+		"hasOptionNamed:" : " 4/3/2016 11:09:49",
+		"help" : " 4/3/2016 11:09:49",
+		"initializeWith:options:parameters:subcommand:" : " 4/3/2016 11:09:49",
+		"manual" : " 4/3/2016 11:09:49",
+		"newline" : " 4/3/2016 11:09:49",
+		"options" : " 4/3/2016 11:09:49",
+		"parameters" : " 4/3/2016 11:09:49",
+		"run" : " 4/3/2016 11:09:49",
+		"signalExit:" : " 4/3/2016 11:09:49",
+		"subcommand" : " 4/3/2016 11:09:49" } }
