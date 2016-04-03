@@ -1,0 +1,1 @@
+I am the exception raised when an invalid command is given by the user.
