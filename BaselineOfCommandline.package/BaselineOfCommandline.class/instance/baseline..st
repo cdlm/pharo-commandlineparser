@@ -3,8 +3,8 @@ baseline: spec
 	<baseline>
 	spec for: #'common' do: [
 		spec
-			package: 'Commandline-Core' with: [ spec requires: #('PetitParser') ];
-			package: 'Commandline-Tests' with: [ spec requires: #('Commandline-Core') ];
+			package: 'Commandline' with: [ spec requires: #('PetitParser') ];
+			package: 'Commandline-Tests' with: [ spec requires: #('Commandline') ];
 			project: 'PetitParser' with: [
 				spec
 					className: 'ConfigurationOfPetitParser';
