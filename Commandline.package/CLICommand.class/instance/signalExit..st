@@ -1,3 +1,3 @@
 running
 signalExit: anInteger
-	CLIExit signalWith: anInteger
+	(Exit status: anInteger) signal
