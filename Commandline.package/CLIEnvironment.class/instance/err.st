@@ -1,3 +1,3 @@
 accessing
 err
-	^ Stdio stderr
+	^ VTermOutputDriver stderr

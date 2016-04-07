@@ -1,3 +1,3 @@
 accessing
 out
-	^ Stdio stdout
+	^ VTermOutputDriver stdout
