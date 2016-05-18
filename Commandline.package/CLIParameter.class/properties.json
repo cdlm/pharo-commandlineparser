@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Specifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CLIParameter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

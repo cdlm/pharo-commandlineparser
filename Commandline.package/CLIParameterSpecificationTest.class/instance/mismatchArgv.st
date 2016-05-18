@@ -1,0 +1,3 @@
+fixtures
+mismatchArgv
+	^ #(--foo foo)

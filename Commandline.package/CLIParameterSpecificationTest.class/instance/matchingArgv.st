@@ -1,0 +1,3 @@
+fixtures
+matchingArgv
+	^ #(bar foo)

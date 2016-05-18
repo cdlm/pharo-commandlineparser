@@ -1,0 +1,14 @@
+{
+	"category" : "Commandline-Specifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CLIOptionSpecificationTest",
+	"pools" : [
+		 ],
+	"super" : "CLINamedSpecificationTest",
+	"type" : "normal" }
